@@ -10,27 +10,26 @@ Work in progress.
 
 # Index
 
-| Flopy ID / Side  |Type| Image Name | Description | Platform  | Status |
-| --        |----| ---------- | ----------- | --------- | ------ |
-| [9](#9)/A   |💾⚙️| 09_A_Forth | Dev Nucleus & Tools - compiled | Atari 8-bit | ✅✍️ |
-| [9](#9)/B   |💾📝| 09_B_Ekrany | Dev Nucleus & Tools - sources | Atari 8-bit | ✅✍️ |
-| [11](#11)/A |💾⚙️| 11_A_Graf | Dev Graphics Tools - compiled | Atari 8-bit | ✅✍️ |
-| [11](#11)/B |💾📝| 11_B_Graf | Dev Graphics Tools - sources | Atari 8-bit | ✅✍️ |
-| [11](#11)/A |💾⚙️| 42_A_GrafDos | Dev Graphics Conversion (RamBrandt-Forth) | Atari 8-bit | ✅✍️ |
-| [11](#11)/B |💾📝| 42_B_GrafDos | Dev Graphics Conversion (RamBrandt-Forth) | Atari 8-bit | ✅✍️ |
-| [1](#1)/A   |💾📝| 01_A_IronNappy | Iron Nappy - abandoned logical game concept | Atari 8-bit | 🔜✍️ |
-| [11](#11) |💾📝| (multiple) | A. D. 2044 - sources | Atari 8-bit | 🔜✍️ |
-| [11](#11) |💾📝| (multiple) | Klątwa (The Curse) - sources | Atari 8-bit | 🔜✍️ |
-| [11](#11) |💾📝| (multiple) | Władcy Ciemności - sources | Atari 8-bit | 🔜✍️ |
+| #  | Type  | Image Name     | Description                                      | Platform    | Status |
+| -- |------ | ----------     | -----------                                      | ----------- | ----   |
+| 01 |🛠️💾⚙️  | 09_A_Forth     | Forth Nucleus & Tools - compiled                    | Atari 8-bit | ✅ |
+| 02 |🛠️💾📝🖨️| 09_B_Ekrany    | Forth Nucleus & Tools - sources                   | Atari 8-bit | ✅ |
+| 03 |🛠️💾⚙️  | 11_A_Graf      | Forth Graphics: Tools - compiled                    | Atari 8-bit | ✅ |
+| 04 |🛠️💾📝🖨️| 11_B_Graf      | Forth Graphics: Tools - sources                  | Atari 8-bit | ✅ |
+| 05 |🛠️💾⚙️  | 42_A_GrafDos   | Forth Graphics: Conversion (RamBrandt-Forth-DOS)   | Atari 8-bit | ✅ |
+| 06 |🛠️💾📝🖨️| 42_B_GrafDos   | Forth Graphics: Conversion (RamBrandt-Forth-DOS) | Atari 8-bit | ✅ |
+| 07 |🕹️💾📝🖨️| 01_A_IronNappy | Iron Nappy - abandoned logical game concept      | Atari 8-bit | ✅ |
+| 08 |🕹️💾📝🖨️| (multiple)     | A. D. 2044 - sources                             | Atari 8-bit | 🔜 |
+| 09 |🕹️💾📝🖨️| (multiple)     | Klątwa (The Curse) - sources                     | Atari 8-bit | 🔜 |
+| 10 |🕹️💾📝🖨️| (multiple)     | Władcy Ciemności - sources                       | Atari 8-bit | 🔜 |
 
-* 💾 - floppy image
-  - containing 📝 sources
-  - containing ⚙️ executable code (bootable)
-* ✅ - floppy image available
-* 🔜 - floppy image upcoming
-* ✍️ - floppy image description or documentation pending (but expected)
-
-All ATR files are Atari floppy images and are accompanied by more readable source extracts (TXT and/or PDF files).
+* 🛠️ - development tools
+* 🕹️ - games
+* 💾 - floppy image in the ATR format (marked with ⚙️ whenever bootable)
+* 📝 - sources in the TXT format (less reliable - omitting special ATASCII characters and binary data)
+* 🖨️ - sources in the PDF format (more reliable - preserving special ATASCII characters and binary data)
+* ✅ - available
+* 🔜 - upcoming
 
 # Details
 
