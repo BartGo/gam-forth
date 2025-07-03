@@ -1,12 +1,15 @@
-# Fig-Forth sources by Roland Pantoła
+# fig-FORTH Work by Roland Pantoła
 
-The repository contains:
-* Game development environment (based on heavily modified APX Extended Fig-Forth for Atari 8-bit)
-* Sources of 8-bit games
+This repository contains...
+* an original game development environment for Atari 800XL (based on modified APX Extended fig-FORTH)
+* sources of 8-bit games
+* materials from a Forth course published in "Tajemnice Atari" (Atari Secrets) in the 1990s
+  
+These items have been generously offered by Mr Pantoła to the "Polish Society for Preserving the Technical Heritage", for release to the wider Forth and Atari communities.
 
-The sources were generously donated by Mr Pantoła to the *Polish Society for Preserving the Technical Heritage*, to be released for all the fans of Forth and Atari.
+The floppy disks were digitized by Mono and Trub.
 
-Work in progress.
+Work in progress. Files and additional documentation are being released gradually.
 
 ## Index
 
