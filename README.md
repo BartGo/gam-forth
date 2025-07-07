@@ -13,26 +13,26 @@ The floppy disks were digitized by Mono and Trub.
 
 ## Index
 
-| #  | Type  |  Name          | Description                                      | Platform    | Status |
-| -- |------ | ----------     | -----------                                      | ----------- | ----   |
-| 01 |🛠️💾📄⚙️  | [09_A_Forth](#09_a_forth)    | Forth Nucleus & Tools - compiled | Atari 8-bit | ✅ |
-| 02 |🛠️💾📄📝🖨️| [09_B_Ekrany](#09_b_ekrany)  | Forth Nucleus & Tools - sources | Atari 8-bit | ✅ |
-| 03 |🛠️💾📄⚙️  | 11_A_Graf      | Forth Graphics: Tools - compiled                    | Atari 8-bit | ✅ |
-| 04 |🛠️💾📄📝🖨️| 11_B_Graf      | Forth Graphics: Tools - sources                  | Atari 8-bit | ✅ |
-| 05 |🕹️💾📄📝🖨️| 01_A_IronNappy | Iron Nappy - abandoned concept of a logic game   | Atari 8-bit | ✅ |
+| #  | Type  |  Name          | Description                                      | Platform    |
+| -- |------ | ----------     | -----------                                      | ----------- |
+| 01 |🛠️💾📄⚙️📝| dev/09_A_Forth.* | Forth Nucleus & Tools - compiled | Atari 8-bit |
+| 02 |🛠️💾📄📝| dev/09_B_Ekrany.* | Forth Nucleus & Tools - sources | Atari 8-bit |
+| 03 |🛠️💾📄⚙️  | dev/11_A_Graf.* | Forth Graphics: Tools - compiled                    | Atari 8-bit |
+| 04 |🛠️💾📄| dev/11_B_Graf.* | Forth Graphics: Tools - sources                  | Atari 8-bit |
+| 05 |🕹️💾📄📝| game/01_A_IronNappy.* | Iron Nappy - abandoned concept of a logic game   | Atari 8-bit |
 <!--
-| 06 |🛠️💾📄⚙️  | 42_A_GrafDos   | Forth Graphics: Conversion (RamBrandt-Forth-DOS)   | Atari 8-bit | ✅ |
-| 07 |🛠️💾📄📝🖨️| 42_B_GrafDos   | Forth Graphics: Conversion (RamBrandt-Forth-DOS) | Atari 8-bit | ✅ |
-| 08 |🕹️💾📄📝🖨️| (multiple)     | A. D. 2044                                       | Atari 8-bit | 🔜 |
-| 09 |🕹️💾📄📝🖨️| (multiple)     | Klątwa (The Curse)                               | Atari 8-bit | 🔜 |
-| 10 |🕹️💾📄📝🖨️| (multiple)     | Władcy Ciemności                                 | Atari 8-bit | 🔜 | -->
+| 06 |🛠️💾📄⚙️  | dev/42_A_GrafDos.*   | Forth Graphics: Conversion (RamBrandt-Forth-DOS)   | Atari 8-bit |
+| 07 |🛠️💾📄📝🖨️| dev/42_B_GrafDos.*   | Forth Graphics: Conversion (RamBrandt-Forth-DOS) | Atari 8-bit |
+| 08 |🕹️💾📄📝🖨️| (multiple)     | A. D. 2044                                       | Atari 8-bit |
+| 09 |🕹️💾📄📝🖨️| (multiple)     | Klątwa (The Curse)                               | Atari 8-bit |
+| 10 |🕹️💾📄📝🖨️| (multiple)     | Władcy Ciemności                                 | Atari 8-bit | -->
 
 * 🛠️ - development tool(s)
 * 💾 - floppy image in the ATR format (marked with ⚙️ whenever bootable)
 * 🕹️ - game - sources or executable (also game concepts or prototypes)
-* 📚 - game - resources (e.g. text, graphics) 
 * 📝 - sources in the TXT format (less reliable - omitting special ATASCII characters and binary data)
-* 🖨️ - sources in the PDF format (more reliable - preserving special ATASCII characters and binary data)
 * 📄 - LOG files, informing about ATR digitalization (and if errors occured)
-* ✅ - available
-* 🔜 - upcoming
+<!-- * ✅ - available -->
+<!-- * 📚 - game - resources (e.g. text, graphics) -->
+<!-- * 🖨️ - sources in the PDF format (more reliable - preserving special ATASCII characters and binary data) -->
+<!-- * 🔜 - upcoming -->
