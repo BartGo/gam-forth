@@ -9,7 +9,7 @@ This repository contains...
 
 These items have been generously offered by Mr Pantoła to the "Polish Society for Preserving the Technical Heritage", for release to the wider Forth and Atari communities.
 
-The floppy disks were digitized by Mono and Trub.
+The original floppy disks (5.25") were digitized by Mono and Trub.
 
 ## Licensing Information
 
