@@ -36,3 +36,8 @@ The floppy disks were digitized by Mono and Trub.
 <!-- * 📚 - game - resources (e.g. text, graphics) -->
 <!-- * 🖨️ - sources in the PDF format (more reliable - preserving special ATASCII characters and binary data) -->
 <!-- * 🔜 - upcoming -->
+
+## Licensing Information
+
+This project contains various components, each with its own licensing terms.
+Please consult the `LICENSE` file within each respective directory for details.
