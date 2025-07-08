@@ -1,12 +1,10 @@
-# fig-FORTH Work by Roland Pantoła
+# fig-FORTH Work by Roland Pantoła (GAM-FORTH)
 
-This repository features Roland Pantoła's fig-FORTH work. You can find more information about him here:
+This repository features Roland Pantoła's fig-FORTH work. It includes the original "GAM-FORTH" game development environment for Atari 800XL, based on a modified APX Extended fig-FORTH but dependent mostly on its public domain "FIG" core and the Assembler by [Bill Ragsdale](https://github.com/BillRagsdale). You can find more information about Roland here:
 * [Wikipedia entry (🇵🇱)](https://pl.wikipedia.org/wiki/Roland_Panto%C5%82a)
 * [Moby Games entry (🇪🇳)](https://www.mobygames.com/person/483332/roland-panto%C5%82a/)
 
-The repository contains the original "GAM-FORTH" game development environment for Atari 800XL, based on a modified APX Extended fig-FORTH but dependent mostly on its public domain "FIG" core and the Assembler by [Bill Ragsdale](https://github.com/BillRagsdale).
-
-"GAM-FORTH" sources have been generously offered by Mr Pantoła to the "Polish Society for Preserving the Technical Heritage" for release to the wider Forth and Atari communities. 
+"GAM-FORTH" sources have been generously offered by Mr Pantoła to the [Polish Society for Preserving the Technical Heritage (🇵🇱)](https://ptodt.org.pl/about/) for release to the wider Forth and Atari communities. 
 
 Main elements of GAM-FORTH are Forth enhancements, source code Editor and a complex GRAF package (able to convert and process graphics made in [RAMbrandt](https://github.com/savetz/RAMbrandt)). 
 
@@ -42,18 +40,18 @@ The original 5.25" floppy disks were digitized by Trub.
 * 🛠️ - development tool(s)
 * 💾 - floppy image in the ATR format (marked with ⚙️ whenever bootable), together with LOG files
 * 🕹️ - game - sources or executable (also game concepts or prototypes)
-* 📝 - sources in the TXT format (less reliable - omitting special ATASCII characters and binary data)
-* 🖨️ - sources in the PDF format (more reliable - preserving special ATASCII characters and binary data)
-* ✅ - available
-* 🔜 - upcoming
+* 📝 - sources in the TXT format (omitting special ATASCII characters and binary data)
+* 🖨️ - sources in the PDF format (preserving special ATASCII characters and binary data)
 * 🗻 - Atari 8-bit
 
 <!--
 | 06 |🛠️💾⚙️ | dev/42_A_GrafDos.*   | Forth Graphics: Conversion (RamBrandt-Forth-DOS)   | 🗻 |
 | 07 |🛠️💾📝🖨️| dev/42_B_GrafDos.*   | Forth Graphics: Conversion (RamBrandt-Forth-DOS) | 🗻 |
 
+* ✅ - available
+* 🔜 - upcoming
 * 📚 - game - resources (e.g. text, graphics)
-<!-- * 🌈 - Commodore C-64 -->
+* 🌈 - Commodore C-64 -->
 
 <!-- 
 ## Licensing Information
