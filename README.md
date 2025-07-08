@@ -16,7 +16,7 @@ These materials have been generously offered by Mr Pantoła to the "Polish Socie
 
 For all three games, the music was composed by Leszek Hołda.
 
-The original 5.25" floppy disks were digitized by Mono and Trub.
+The original 5.25" floppy disks were digitized by Trub.
 
 ## Licensing Information
 
@@ -27,11 +27,11 @@ Please consult the `LICENSE` file within each respective directory for details.
 
 | #  | Type  |  Name          | Name and Description                             | Platform    |
 | -- |------ | ----------     | -----------                                      | ----------- |
-| 01 |🛠️💾⚙️📝| dev/09_A_Forth.* | **FORTH+EDITOR 1.6** - Forth & Tools (compiled) | 🗻 |
+| 01 |🛠️💾⚙️📝| dev/09_A_Forth.* | **FORTH+EDITOR 1.6** - dev environment (compiled) | 🗻 |
 | 02 |🛠️💾📝| dev/09_B_Ekrany.* | **EKRANY 1.6** - related sources (screens) | 🗻 |
 | 03 |🛠️💾⚙️📝| dev/11_A_Graf.* | **GRAF: COM** - Forth Graphics Tools (compiled)     | 🗻 |
 | 04 |🛠️💾📝| dev/11_B_Graf.* | **GRAF: EKRANY** - Forth Graphics Tools, sources (screens)  | 🗻 | 
-| 05 |🕹️💾📝| game/01_A_IronNappy.* | **IRON NAPPY: EKRANY** - abandoned game concept, sources (screens)   | 🗻 |
+| 05 |🕹️💾📝| game/01_A_IronNappy.* | **IRON NAPPY: EKRANY** - game concept, sources (screens)   | 🗻 |
 <!--
 | 06 |🛠️💾⚙️ | dev/42_A_GrafDos.*   | Forth Graphics: Conversion (RamBrandt-Forth-DOS)   | 🗻 |
 | 07 |🛠️💾📝🖨️| dev/42_B_GrafDos.*   | Forth Graphics: Conversion (RamBrandt-Forth-DOS) | 🗻 |
