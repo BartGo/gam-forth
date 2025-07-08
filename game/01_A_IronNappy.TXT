@@ -441,6 +441,40 @@ SCR # 24 ( TXT )
  30 -->
  31 
 
+SCR # 25 ( TXT )
+  0  ( AA BB LOS-AB PLANSZA  )
+  1 
+  2 
+  3 
+  4 : LOS-1AB 0 0 BEGIN 2DROP
+  5          L-M 0 10 2
+  6         DO
+  7          2TOVER I LI>XY BANK C@
+  8          POLE = +
+  9         2 +LOOP 2 > UNTIL ;
+ 10 
+ 11 : LOS-A LOS-1AB AA 2TOVER BANK!
+ 12         ?BANK ;
+ 13 
+ 14 : LOS-B LOS-1AB BB 2TOVER BANK!
+ 15         ?BANK ;
+ 16 
+ 17 : LOS-AB 0 DO LOS-A LOS-B LOOP ;
+ 18 
+ 19 ( ILOSC ---  losuje elementy  )
+ 20 (            A i B            )
+ 21 
+ 22 : PLANSZA DUP LOS-POLA 4 /
+ 23        1 LOS-AB LOS-MURY ;
+ 24 
+ 25 ( ILOSC ---  inicjuje plansze  )
+ 26 (       z podana liczba pol    )
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
 SCR # 44 ( HEX/DATA )
   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
   1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
