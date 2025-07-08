@@ -1,6 +1,6 @@
 # fig-FORTH Work by Roland Pantoła
 
-This repository showcases Roland Pantoła's fig-FORTH games, developed between 1991 and 1993. You can find more information about him here:
+This repository features Roland Pantoła's fig-FORTH games, developed between 1991 and 1993. You can find more information about him here:
 * [Wikipedia entry (🇵🇱)](https://pl.wikipedia.org/wiki/Roland_Panto%C5%82a)
 * [Moby Games entry (🇪🇳)](https://www.mobygames.com/person/483332/roland-panto%C5%82a/)
 
