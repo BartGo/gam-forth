@@ -16,6 +16,10 @@ GRAF, here in one if its modules:
 
 ![](dev/11a-graf.png)
 
+GRAFIK-DOS (graphics storage routines):
+
+![](dev/42a-grafdos.png)
+
 This unique environment was used to develop 8-bit games: 
   - "A.D. 2044" (1991, 🇵🇱) - see the gameplay on [A.D. 2044 - Atari XL/XE by gregok1973 (🇵🇱)](https://www.youtube.com/watch?v=BUFI9YIeCvc). 
   - "Klątwa"/"The Curse" (1992, 🇵🇱/🇪🇳) - see the gameplay on [Klątwa for the Atari 8-bit family by Highretrogamelord (🇵🇱)](https://www.youtube.com/watch?v=ygqf9H5aB2k).
