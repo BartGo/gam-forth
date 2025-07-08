@@ -42,13 +42,9 @@ Please consult the `LICENSE` file within each respective directory for details.
 * 🛠️ - development tool(s)
 * 💾 - floppy image in the ATR format (marked with ⚙️ whenever bootable), together with LOG files (informing if errors occured during digitization)
 * 🕹️ - game - sources or executable (also game concepts or prototypes)
+* 📚 - game - resources (e.g. text, graphics)
 * 📝 - sources in the TXT format (less reliable - omitting special ATASCII characters and binary data)
+* 🖨️ - sources in the PDF format (more reliable - preserving special ATASCII characters and binary data)
 * 🗻 - Atari 8-bit
 * ✅ - available
 * 🔜 - upcoming
-
-<!-- * 📚 - game - resources (e.g. text, graphics) -->
-<!-- * 🖨️ - sources in the PDF format (more reliable - preserving special ATASCII characters and binary data) -->
-
-
-
