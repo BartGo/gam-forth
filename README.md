@@ -4,22 +4,27 @@ This repository features Roland Pantoła's fig-FORTH work. You can find more inf
 * [Wikipedia entry (🇵🇱)](https://pl.wikipedia.org/wiki/Roland_Panto%C5%82a)
 * [Moby Games entry (🇪🇳)](https://www.mobygames.com/person/483332/roland-panto%C5%82a/)
 
-The repository contains the original "GAM-FORTH" game development environment for Atari 800XL, based on a modified APX Extended fig-FORTH. The environment was used to develop 8-bit games: 
+The repository contains the original "GAM-FORTH" game development environment for Atari 800XL, based on a modified APX Extended fig-FORTH but dependent mostly on its public domain "FIG" core and the Assembler by [Bill Ragsdale](https://github.com/BillRagsdale).
+
+"GAM-FORTH" sources have been generously offered by Mr Pantoła to the "Polish Society for Preserving the Technical Heritage" for release to the wider Forth and Atari communities. 
+
+The environment was used to develop 8-bit games: 
   - "A.D. 2044" (1991, 🇵🇱) - see the gameplay on [A.D. 2044 - Atari XL/XE by gregok1973 (🇵🇱)](https://www.youtube.com/watch?v=BUFI9YIeCvc). 
   - "Klątwa"/"The Curse" (1992, 🇵🇱/🇪🇳) - see the gameplay on [Klątwa for the Atari 8-bit family by Highretrogamelord (🇵🇱)](https://www.youtube.com/watch?v=ygqf9H5aB2k).
   - "Władcy Ciemności" (1993, 🇵🇱) - see the gameplay on [Władcy Ciemności - RetRozrywka GamePlay by RetRozrywka (🇵🇱)](https://www.youtube.com/watch?v=yMG_Y_y1VSs).
 
-The three games are copyrighted by [LK Avalon](https://www.lkavalon.com/), reeditions may be available at [Retronics](https://retronics.eu/).
+These three games are copyrighted by [LK Avalon](https://www.lkavalon.com/), reeditions may be available at [Retronics](https://retronics.eu/). Sources of these games are NOT available here.
 
-These materials have been generously offered by Mr Pantoła to the "Polish Society for Preserving the Technical Heritage" for release to the wider Forth and Atari communities. 
+"Klątwa" and "Władcy Ciemności" were also ported to Commodore C-64.
 
 The original 5.25" floppy disks were digitized by Trub.
 
+<!-- 
 ## Licensing Information
 
 This project contains various components, each with its own licensing terms.
 Please consult the `LICENSE` file within each respective directory for details.
-
+-->
 ## Index
 
 | #  | Type  |  Name          | Name and Description                             | Platform    |
