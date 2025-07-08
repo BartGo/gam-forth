@@ -5,6 +5,9 @@ Work in progress. Files and additional documentation are being released graduall
 This repository contains...
 * the original "GAM-FORTH" game development environment for Atari 800XL, based on modified APX Extended fig-FORTH
 * sources of 8-bit games created by Roland
+  - A.D. 2044 (in Polish)
+  - Klątwa (in Polish but also released in English as The Curse)
+  - Władcy Ciemności
 * materials from a Forth course published in "Tajemnice Atari" (Atari Secrets) in the 1990s
 
 These items have been generously offered by Mr Pantoła to the "Polish Society for Preserving the Technical Heritage", for release to the wider Forth and Atari communities. 
