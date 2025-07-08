@@ -37,11 +37,13 @@ Review, source selection and README by BartGo (Bartosz Gołda).
 
 | #  | Type  |  Name          | Name and Description                             | Platform    |
 | -- |------ | ----------     | -----------                                      | ----------- |
-| 01 |🛠️💾⚙️📝| dev/09_A_Forth.* | **FORTH+EDITOR 1.6** - dev environment (compiled) | 🗻 |
-| 02 |🛠️💾📝| dev/09_B_Ekrany.* | **EKRANY 1.6** - related sources (screens) | 🗻 |
-| 03 |🛠️💾⚙️📝| dev/11_A_Graf.* | **GRAF: COM** - Forth Graphics Tools (compiled)     | 🗻 |
-| 04 |🛠️💾📝| dev/11_B_Graf.* | **GRAF: EKRANY** - Forth Graphics Tools, sources (screens)  | 🗻 | 
-| 05 |🕹️💾📝| game/01_A_IronNappy.* | **IRON NAPPY: EKRANY** - game concept, sources (screens)   | 🗻 |
+| 01 |🛠️💾⚙️📝| dev/09_A_Forth.* | **FORTH+EDITOR 1.6 / EKRANY** - dev environment (compiled) | 🗻 |
+| 02 |🛠️💾📝| dev/09_B_Ekrany.* | **FORTH+EDITOR 1.6 / EKRANY** - related sources ("screens") | 🗻 |
+| 03 |🛠️💾⚙️📝| dev/11_A_Graf.* | **GRAF: COM / EKRANY** - resource manager / editor (compiled)     | 🗻 |
+| 04 |🛠️💾📝| dev/11_B_Graf.* | **GRAF: COM / EKRANY** - resource manager / editor, sources ("screens")  | 🗻 | 
+| 05 |🛠️💾⚙️ | dev/42_A_GrafDos.*   | **GRAF-DOS 2.05 / RAMB-KASETA** - resource conversion (compiled) | 🗻 |
+| 06 |🛠️💾📝🖨️| dev/42_B_GrafDos.*   | **GRAF-DOS 2.05 / RAMB-KASETA** - resource conversion, sources ("screens")| 🗻 |
+| 07 |🕹️💾📝| game/01_A_IronNappy.* | **IRON NAPPY EKRANY** - game concept, sources ("screens")   | 🗻 |
 
 * 🛠️ - development tool(s)
 * 💾 - floppy image in the ATR format (marked with ⚙️ whenever bootable), together with LOG files
@@ -50,9 +52,10 @@ Review, source selection and README by BartGo (Bartosz Gołda).
 * 🖨️ - sources in the PDF format (preserving special ATASCII characters and binary data)
 * 🗻 - Atari 8-bit
 
+Please note that "screens" are a Forth-specific way to store sources on a floppy and an alternative to filesystem. Sources stored in this way were here converted to allow more convenient browsing and analysis. Still, the "screen" concept cannot be abandoned and sources had to be also provided on the floppy images (ATR) - to preserve the correct structure.
+
 <!--
-| 06 |🛠️💾⚙️ | dev/42_A_GrafDos.*   | Forth Graphics: Conversion (RamBrandt-Forth-DOS)   | 🗻 |
-| 07 |🛠️💾📝🖨️| dev/42_B_GrafDos.*   | Forth Graphics: Conversion (RamBrandt-Forth-DOS) | 🗻 |
+
 
 * ✅ - available
 * 🔜 - upcoming
