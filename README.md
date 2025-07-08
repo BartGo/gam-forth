@@ -1,18 +1,22 @@
 # fig-FORTH Work by Roland Pantoła
 
-Work in progress. Files and additional documentation are being released gradually.
+This repository showcases Roland Pantoła's fig-FORTH games, developed between 1991 and 1993. You can find more information about him here:
+* [Wikipedia entry (🇵🇱)](https://pl.wikipedia.org/wiki/Roland_Panto%C5%82a)
+* [Moby Games entry (🇪🇳)](https://www.mobygames.com/person/483332/roland-panto%C5%82a/)
 
-This repository contains...
-* the original "GAM-FORTH" game development environment for Atari 800XL, based on modified APX Extended fig-FORTH
-* sources of 8-bit games created by Roland
-  - "A.D. 2044" (🇵🇱) - see [A.D. 2044 - Atari XL/XE by gregok1973 (🇵🇱)](https://www.youtube.com/watch?v=BUFI9YIeCvc) 
-  - "Klątwa" (🇵🇱&🇬🇧) - see [Klatwa for the Atari 8-bit family by Highretrogamelord (🇵🇱)](https://www.youtube.com/watch?v=ygqf9H5aB2k)
-  - "Władcy Ciemności" (🇵🇱): see  [Władcy Ciemności - RetRozrywka GamePlay by RetRozrywka (🇵🇱)](https://www.youtube.com/watch?v=yMG_Y_y1VSs)
-* materials from a Forth course published in "Tajemnice Atari" (Atari Secrets) in the 1990s
+The repository contains:
+* ✅ The original "GAM-FORTH" game development environment for Atari 800XL, based on a modified APX Extended fig-FORTH. 
+* 🔜 Sources of 8-bit games: 
+  - "A.D. 2044" (1991, 🇵🇱) - see [A.D. 2044 - Atari XL/XE by gregok1973 (🇵🇱)](https://www.youtube.com/watch?v=BUFI9YIeCvc). 
+  - "Klątwa"/"The Curse" (1992, 🇵🇱/🇪🇳) - see [Klątwa for the Atari 8-bit family by Highretrogamelord (🇵🇱)](https://www.youtube.com/watch?v=ygqf9H5aB2k).
+  - "Władcy Ciemności" (1993, 🇵🇱) - see  [Władcy Ciemności - RetRozrywka GamePlay by RetRozrywka (🇵🇱)](https://www.youtube.com/watch?v=yMG_Y_y1VSs).
+* 🔜 Materials from a Forth course published in "Tajemnice Atari" (Atari Secrets) in the 1990s.
 
-These items have been generously offered by Mr Pantoła to the "Polish Society for Preserving the Technical Heritage", for release to the wider Forth and Atari communities. 
+These materials have been generously offered by Mr Pantoła to the "Polish Society for Preserving the Technical Heritage" for release to the wider Forth and Atari communities. 
 
-The original floppy disks (5.25") were digitized by Mono and Trub.
+For all three games, the music was composed by Leszek Hołda.
+
+The original 5.25" floppy disks were digitized by Mono and Trub.
 
 ## Licensing Information
 
@@ -40,9 +44,11 @@ Please consult the `LICENSE` file within each respective directory for details.
 * 🕹️ - game - sources or executable (also game concepts or prototypes)
 * 📝 - sources in the TXT format (less reliable - omitting special ATASCII characters and binary data)
 * 🗻 - Atari 8-bit
-<!-- * ✅ - available -->
+* ✅ - available
+* 🔜 - upcoming
+
 <!-- * 📚 - game - resources (e.g. text, graphics) -->
 <!-- * 🖨️ - sources in the PDF format (more reliable - preserving special ATASCII characters and binary data) -->
-<!-- * 🔜 - upcoming -->
+
 
 
