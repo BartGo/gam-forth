@@ -1,6 +1,6 @@
 # GAM-FORTH and other fig-FORTH sources by Roland Pantoła
 
-This repository features Roland Pantoła's fig-FORTH work. It includes the original "GAM-FORTH" game development environment for Atari 800XL, based on a modified APX Extended fig-FORTH [*](disclaimer) although dependent only on its public domain "FIG" elements and the Assembler by [Bill Ragsdale](https://github.com/BillRagsdale). You can find more information about Roland here:
+This repository features Roland Pantoła's fig-FORTH work. It includes the original "GAM-FORTH" game development environment for Atari 800XL, based on a modified APX Extended fig-FORTH [*](#disclaimer) although dependent only on its public domain "FIG" elements and the Assembler by [Bill Ragsdale](https://github.com/BillRagsdale). You can find more information about Roland here:
 * [Wikipedia entry (🇵🇱)](https://pl.wikipedia.org/wiki/Roland_Panto%C5%82a)
 * [Moby Games entry (🇪🇳)](https://www.mobygames.com/person/483332/roland-panto%C5%82a/)
 
