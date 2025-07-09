@@ -6,29 +6,6 @@ This repository features Roland Pantoła's fig-FORTH work. It includes the origi
 
 With the generous offering from Mr. Pantoła to the [Polish Society for Preserving the Technical Heritage (🇵🇱)](https://ptodt.org.pl/about/), GAM-FORTH sources are published here with his approval.
 
-Main elements of GAM-FORTH are Forth enhancements, source code Editor and a complex GRAF package (able to convert and process graphics made in [RAMbrandt](https://github.com/savetz/RAMbrandt)). 
-
-EDYTOR-FORTH (source Editor), previously published in "Tajemnice Atari":
-
-![](dev/9a-edit-26.png)
-
-GRAF, here in one if its modules:
-
-![](dev/11a-graf.png)
-
-GRAFIK-DOS (graphics storage routines):
-
-![](dev/42a-grafdos.png)
-
-This unique environment was used to develop 8-bit games: 
-  - "A.D. 2044" (1991, 🇵🇱) - see the gameplay on [A.D. 2044 - Atari XL/XE by gregok1973 (🇵🇱)](https://www.youtube.com/watch?v=BUFI9YIeCvc). 
-  - "Klątwa"/"The Curse" (1992, 🇵🇱/🇪🇳) - see the gameplay on [Klątwa for the Atari 8-bit family by Highretrogamelord (🇵🇱)](https://www.youtube.com/watch?v=ygqf9H5aB2k).
-  - "Władcy Ciemności" (1993, 🇵🇱) - see the gameplay on [Władcy Ciemności - RetRozrywka GamePlay by RetRozrywka (🇵🇱)](https://www.youtube.com/watch?v=yMG_Y_y1VSs).
-
-These games are copyrighted by [LK Avalon](https://www.lkavalon.com/), reeditions may be available at [Retronics](https://retronics.eu/). Related sources are NOT available here.
-
-"Klątwa" and "Władcy Ciemności" were also ported to Commodore C-64.
-
 The original 5.25" floppy disks were digitized by Trub.
 
 Review, source selection and README by BartGo.
@@ -55,6 +32,37 @@ The above Emojis mean:
 * 🚫 - no sources on this medium
 
 Please note that "screens" are a Forth-specific way to store sources on a floppy and an alternative to filesystem. Sources stored in this way were here converted to allow more convenient browsing and analysis. Still, the "screen" concept cannot be abandoned - sources had to be also provided on the floppy images (ATR) to preserve the original structure and behavior.
+
+## Were these Forth tools ever seriously used?
+
+Yes!
+
+This unique environment was used to develop 8-bit games: 
+  - "A.D. 2044" (1991, 🇵🇱) - see the gameplay on [A.D. 2044 - Atari XL/XE by gregok1973 (🇵🇱)](https://www.youtube.com/watch?v=BUFI9YIeCvc). 
+  - "Klątwa"/"The Curse" (1992, 🇵🇱/🇪🇳) - see the gameplay on [Klątwa for the Atari 8-bit family by Highretrogamelord (🇵🇱)](https://www.youtube.com/watch?v=ygqf9H5aB2k).
+  - "Władcy Ciemności" (1993, 🇵🇱) - see the gameplay on [Władcy Ciemności - RetRozrywka GamePlay by RetRozrywka (🇵🇱)](https://www.youtube.com/watch?v=yMG_Y_y1VSs).
+
+These games are copyrighted by [LK Avalon](https://www.lkavalon.com/), reeditions may be available at [Retronics](https://retronics.eu/). Related sources are NOT available here.
+
+"Klątwa" and "Władcy Ciemności" were also ported to Commodore C-64.
+
+Elements of this environment were also presented in the Forth course, published in a Polish magazine "Tajemnice Atari" ("Atari Secrets") in 1992 and 1993.
+
+## GAM-FORTH
+
+Main elements of GAM-FORTH are Forth enhancements, source code Editor and a complex GRAF package (able to convert and process graphics made in [RAMbrandt](https://github.com/savetz/RAMbrandt)). 
+
+EDYTOR-FORTH (source Editor):
+
+![](dev/9a-edit-26.png)
+
+GRAF, here in one if its modules:
+
+![](dev/11a-graf.png)
+
+GRAFIK-DOS (graphics storage routines):
+
+![](dev/42a-grafdos.png)
 
 ## Disclaimer
 
