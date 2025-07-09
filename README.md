@@ -18,15 +18,15 @@ Review, source selection and this README by BartGo.
 
 ## Index
 
-| #  |  File           | Name and Description                             |Content|
+| #  |  Files          | Name and Description                             |Download|
 | -- | ----------     | -----------                                      |----|
-| 01 | img/09_A_Forth.* | **FORTH+EDITOR 1.6 / COM** - GAM-FORTH|⚙️ 📝|
-| 02 | img/09_B_Ekrany.* | **FORTH+EDITOR 1.6 / EKRANY** - GAM-FORTH|🎞️ 📝|
-| 03 | img/11_A_Graf.* | **GRAF: COM** - resource manager and editor|⚙️ 📝|
-| 04 | img/11_B_Graf.* | **GRAF: EKRANY** - resource manager and editor|🎞️ 📝|
-| 05 | img/42_A_GrafDos.*   | **GRAF-DOS 2.05 / RAMB-KASETA** - resource conversion|⚙️ 🚫|
-| 06 | img/42_B_GrafDos.*   | **GRAF-DOS 2.05 / RAMB-KASETA** - resource conversion|🎞️ 📝|
-| 07 | img/01_A_IronNappy.* | **IRON NAPPY** - an early game concept|🎞️ 📝|
+| 01 | img/09_A_Forth.* | **FORTH+EDITOR 1.6 / COM** - GAM-FORTH|[⚙️](img/09_A_Forth.ATR) [📝](img/09_A_Forth.TXT)|
+| 02 | img/09_B_Ekrany.* | **FORTH+EDITOR 1.6 / EKRANY** - GAM-FORTH|[🎞️](img/09_B_Ekrany.ATR) [📝](img/09_B_Ekrany.TXT)|
+| 03 | img/11_A_Graf.* | **GRAF: COM** - resource manager and editor|[⚙️](img/11_A_Graf.ATR) [📝](img/11_A_Graf.TXT)|
+| 04 | img/11_B_Graf.* | **GRAF: EKRANY** - resource manager and editor|[🎞️](img/11_B_Graf.ATR) [📝](img/11_B_Graf.TXT)|
+| 05 | img/42_A_GrafDos.*   | **GRAF-DOS 2.05 / RAMB-KASETA** - resource conversion|[⚙️](img/42_A_GrafDos.ATR) 🚫|
+| 06 | img/42_B_GrafDos.*   | **GRAF-DOS 2.05 / RAMB-KASETA** - resource conversion|[🎞️](img/42_B_GrafDos.ATR) [📝](img/42_B_GrafDos.TXT)|
+| 07 | img/01_A_IronNappy.* | **IRON NAPPY** - an early game concept|[🎞️](img/01_A_IronNappy.ATR) [📝](img/01_A_IronNappy.TXT)|
 
 All the floppy images are in the ATR format, usually accompanied by LOG files. 
 
@@ -37,27 +37,29 @@ The above emojis mean:
 * 🖨️ - sources from "screens" converted into the PDF format (preserving special ATASCII characters and binary data)
 * 🚫 - no sources on this medium
 
-Please note that "screens" are a Forth-specific way to store sources on a floppy as an alternative to filesystem and are here converted to allow more convenient usage. Still, the "screen" concept cannot be abandoned completely - sources had to be also provided on the floppy images (ATR) to preserve the original structure.
+Please note that "screens" are a Forth-specific way to store sources on a floppy (as an alternative to files) and are here converted for more convenient usage. Still, the "screen" concept cannot be abandoned completely - sources are best to be also provided on the floppy images (ATR) to preserve the original structure.
 
 ## What are these applications?
 
-EDYTOR-FORTH (source editor for Forth "screens") - already presented in the Polish magazine "Tajemnice Atari" / "Atari Secrets" in 1992 and 1993:
+EDYTOR-FORTH (source editor for Forth "screens"):
 
-![](dev/9a-edit-26.png)
+![](img/9a-edit-26.png)
 
-GRAF, here in one if its submodules:
+This program is already known from the Polish magazine "Tajemnice Atari" ("Atari Secrets") and was described there in 1992-93 Forth course.
 
-![](dev/11a-graf2.png)
+GRAF (resource manager), here in one if its submodules:
+
+![](img/11a-graf2.png)
 
 GRAFIK-DOS (graphics conversion and storage routines):
 
-![](dev/42a-grafdos.png)
+![](img/42a-grafdos.png)
 
 IRON NAPPY (board generator for an abandoned game concept):
 
 ![](img/01-iron.png)
 
-All these tools were dependent mostly on the public domain "FIG" implementation of Forth and on its Assembler written by [Bill Ragsdale](https://github.com/BillRagsdale), but actually written in APX Extended fig-FORTH (originally distributed by Atari). Today this Forth can be officially obtained on [Atari Archives](https://www.atariarchives.org/APX/showinfo.php?cat=20029), APX20029.DCM being the most suitable file. As described on the site, it is free to download and use, but is not public domain. It is the most compatible fig-FORTH version to be used with the sources. Probably the second in compatibility is public domain SPACE Forth, written by the same author as the APX version - Patrick L. Mullarky.
+All these tools were dependent mostly on the public domain "FIG" implementation of Forth and on its Assembler written by [Bill Ragsdale](https://github.com/BillRagsdale), but actually written in APX Extended fig-FORTH (originally distributed by Atari). Today APX Forth can be officially obtained on [Atari Archives](https://www.atariarchives.org/APX/showinfo.php?cat=20029), APX20029.DCM being the most suitable file. As described on the site, it is free to download and use, but is not public domain. It is the most compatible fig-FORTH version to be used with the sources. Probably the second in compatibility is public domain SPACE Forth, written by the same author as the APX version - Patrick L. Mullarky.
 
 ## Were these Forth tools ever used to develop any applications or games?
 
