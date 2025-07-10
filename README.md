@@ -60,7 +60,9 @@ IRON NAPPY (board generator for an abandoned game concept):
 
 ![](img/01-iron.png)
 
-All these tools were dependent mostly on the public domain "FIG" implementation of Forth and on its Assembler written by [Bill Ragsdale](https://github.com/BillRagsdale), but actually written in APX Extended fig-FORTH (originally distributed by Atari). Today APX Forth can be officially obtained on [Atari Archives](https://www.atariarchives.org/APX/showinfo.php?cat=20029), APX20029.DCM being the most suitable file. As described on the site, it is free to download and use, but is not public domain. It is the most compatible fig-FORTH version to be used with the sources. Probably the second in compatibility is public domain SPACE Forth, written by the same author as the APX version - Patrick L. Mullarky.
+## Dependencies and additional Copyright information
+
+All these tools depend mostly on the public domain fig-FORTH and on its Assembler by [Bill Ragsdale](https://github.com/BillRagsdale). However, the tools are based on a specific product - [APX Extended fig-FORTH](https://www.atarimania.com/utility-atari-400-800-xl-xe-extended-fig-forth_29927.html), originally distributed by Atari. Today, APX Forth can be officially obtained from [Atari Archives](https://www.atariarchives.org/APX/showinfo.php?cat=20029), APX20029.DCM being the most suitable file. As described on the site, it is free to download and use, but is not public domain. 
 
 ## Applications and Games Developed with These Tools
 
