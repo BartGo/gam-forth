@@ -1,6 +1,6 @@
-# GAM-FORTH and other fig-FORTH sources by Roland Pantoła
+# GAM FORTH and other fig-FORTH sources by Roland Pantoła
 
-This repository features Roland Pantoła's fig-FORTH work for the Atari 800XL, including a modification of the language ("GAM-FORTH") and other custom development tools.
+This repository features Roland Pantoła's fig-FORTH work for the Atari 800XL, including a modification of the language ("GAM FORTH") and other custom development tools.
 
 With the generous offering from Mr. Pantoła to the [Polish Society for Preserving the Technical Heritage (🇵🇱)](https://ptodt.org.pl/about/), these sources are published here with his approval.
 
@@ -23,8 +23,8 @@ The following table lists the digitized floppy disk images and their accompanyin
 
 | # | Files                 | Name and Description                                 | Download                               |
 |---|-----------------------|------------------------------------------------------|----------------------------------------|
-| 01 | `img/09_A_Forth.*`    | **FORTH+EDITOR 1.6 / COM** - GAM-FORTH (1/2)         | [⚙️](img/09_A_Forth.ATR) [📝](img/09_A_Forth.TXT) |
-| 02 | `img/09_B_Ekrany.*`   | **FORTH+EDITOR 1.6 / EKRANY** - GAM-FORTH (2/2)      | [🎞️](img/09_B_Ekrany.ATR) [📝](img/09_B_Ekrany.TXT) |
+| 01 | `img/09_A_Forth.*`    | **FORTH+EDITOR 1.6 / COM** - GAM FORTH (1/2)         | [⚙️](img/09_A_Forth.ATR) [📝](img/09_A_Forth.TXT) |
+| 02 | `img/09_B_Ekrany.*`   | **FORTH+EDITOR 1.6 / EKRANY** - GAM FORTH (2/2)      | [🎞️](img/09_B_Ekrany.ATR) [📝](img/09_B_Ekrany.TXT) |
 | 03 | `img/11_A_Graf.*`     | **GRAF / COM** - resource manager and editor (1/2)   | [⚙️](img/11_A_Graf.ATR) [📝](img/11_A_Graf.TXT) |
 | 04 | `img/11_B_Graf.*`     | **GRAF / EKRANY** - resource manager and editor (2/2) | [🎞️](img/11_B_Graf.ATR) [📝](img/11_B_Graf.TXT) |
 | 05 | `img/42_A_GrafDos.*`  | **GRAF-DOS 2.05 / RAMB-KASETA** - resource conversion (1/2) | [⚙️](img/42_A_GrafDos.ATR) [📝](img/42_A_GrafDos.TXT) |
@@ -61,9 +61,11 @@ IRON NAPPY (board generator for an abandoned game concept):
 
 ![](img/01-iron.png)
 
-## Dependencies and additional Copyright information
+## Dependencies and related Copyright information
 
-All these tools depend mostly on the public domain fig-FORTH and on its Assembler by [Bill Ragsdale](https://github.com/BillRagsdale). However, the tools are based on a specific product - [APX Extended fig-FORTH](https://www.atarimania.com/utility-atari-400-800-xl-xe-extended-fig-forth_29927.html), originally distributed by Atari. Today, APX Forth can be officially obtained from [Atari Archives](https://www.atariarchives.org/APX/showinfo.php?cat=20029), APX20029.DCM being the most suitable file. As described on the site, it is free to download and use, but is not public domain. 
+This project's sources primarily depend on the public domain "fig-FORTH" model and on its Assembler, created by [Bill Ragsdale](https://github.com/BillRagsdale). However, a specific implementation of the model has been used - [APX Extended fig-FORTH](https://www.atarimania.com/utility-atari-400-800-xl-xe-extended-fig-forth_29927.html), originally distributed by Atari. Today you can obtain APX Forth from [Atari Archives](https://www.atariarchives.org/APX/showinfo.php?cat=20029) (APX20029.DCM is the recommended file). While it is free to download and use, it is important to note that this Forth is **not public domain**.
+
+The closest public domain alternative is "SPACE Forth" by the same author, Patrick L. Mullarky, available from ABBUC as [0220 - Fig-Forth V1.1](https://abbuc.de/download/abbuc_pd_005_0201-0250/#). Porting many elements of this environment to "SPACE Forth" (and potentially other Atari fig-FORTH implementations like Team Atari Forth) should be feasible and might be documented in future.
 
 ## Applications and Games Developed with These Tools
 
@@ -74,17 +76,5 @@ Three commercially succesful 8-bit games were developed using these tools:
 
 These games are copyrighted by [LK Avalon](https://www.lkavalon.com/); reeditions may be available at [Retronics](https://retronics.eu/). Related sources are NOT available here.
 
-"Klątwa" and "Władcy Ciemności" were also ported to Commodore C-64.
-
-<!-- The closest public domain Forth seems to be "S*P*A*C*E Forth" ("s*p*a*c*e fig4th 1.1" by the same author, Patrick L. Mullarky), available from ABBUC as [0220 - Fig-Forth V1.1](https://abbuc.de/download/abbuc_pd_005_0201-0250/#) - it should be possible to port many elements of the environment there (and perhaps to other fig-FORTHs for Atari, especially Team Atari Forth). Usage of sources and description of many functionalities will be documented on the Wiki.
-
-* ✅ - available
-* 🔜 - upcoming
-* 🚫 - no sources on this medium
-* 📚 - game - resources (e.g. text, graphics)
-* 🗻 - Atari 8-bit
-* 🌈 - Commodore C-64
-
--->
-
+"Klątwa" and "Władcy Ciemności" were also ported to Commodore 64.
 
